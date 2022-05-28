@@ -36,5 +36,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuliitezary&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliitezary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliitezary&show_icons=true&theme=radical)
