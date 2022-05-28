@@ -12,12 +12,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a  Developer <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="30"> from MOLDOVA
+Я разработчик из МОЛДОВЫ
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+🔭 Я работаю инженером-программистом и занимаюсь разработкой интерфейса и бэкэнда для создания веб-приложений.
+🌱 Изучение Написания Технического Контента.
+⚡ В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.
+📫 Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 ---
 
