@@ -25,3 +25,4 @@
   <img src="https://giffiles.alphacoders.com/362/36224.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
