@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://github.com/yuliitezary">
 </div>
-  <div id="header" align="center">
-  <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="100"/>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
