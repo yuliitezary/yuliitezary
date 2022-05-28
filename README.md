@@ -31,6 +31,7 @@ I am a  Developer <img src="https://github.com/yuliitezary/yuliitezary/blob/main
  <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/android/android-original-wordmark.svg" title="android" **alt="android" width="40" height="40"/>&nbsp;
  <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 
 </p>
 
