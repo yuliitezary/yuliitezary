@@ -21,6 +21,9 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
   <img src="https://giffiles.alphacoders.com/362/36224.gif" width="600" height="300"/>
 </div>
