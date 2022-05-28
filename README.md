@@ -36,6 +36,8 @@
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/windows8/windows8-original.svg"  title="windows" alt="windows" width="40" height="40"/>&nbsp;
+<img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/vscode/vscode-plain-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
 
 </p>
 
