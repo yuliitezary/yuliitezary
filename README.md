@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://github.com/Callumgm">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliitezary&theme=dark&show_icons=true)
 </div>
   
 <div style="display: inline_block"><br>
