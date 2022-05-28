@@ -2,7 +2,7 @@
   <a href="https://github.com/yuliitezary">
 </div>
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.ggif" width="100"/>
+  <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="100"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
