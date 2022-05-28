@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="30"> from India.
+I am a  Developer <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="30"> from MOLDOVA
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
