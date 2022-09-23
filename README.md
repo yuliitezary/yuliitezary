@@ -39,3 +39,10 @@
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 
 </p>
+
+### ✍️ Blog Posts :
+
+- [Log4shell - угрожает Minecraft или УЯЗВИМОСТЬ НУЛЕВОГО ДНЯ
+](https://www.youtube.com/watch?v=6N5nzse3QjA)
+<!-- BLOG-POST-LIST:END -->
+
