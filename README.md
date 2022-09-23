@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">юлик</a> 
+<h1 align="center">Привет, я <a href="https://github.com/yuliitezary/yuliitezary/blob/main/968d1b8c8a32509ad97df731b9181dc627ad5889_hq.gif" target="_blank">юлик</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент информатики, автор новостей IT из Молдовы 🇷🇺</h3>
 
