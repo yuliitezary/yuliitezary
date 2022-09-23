@@ -1,4 +1,10 @@
 <centre><h1>дргой сайт</h1></centre>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Тег FRAME</title>
+ </head>
+
  <frameset rows="80,*" cols="*">
    <frame src="top.html" name="topFrame" scrolling="no" noresize>
    <frameset cols="80,*">
@@ -6,6 +12,8 @@
      <frame src="main.html" name="mainFrame">
    </frameset>
  </frameset>
+
+</html>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
