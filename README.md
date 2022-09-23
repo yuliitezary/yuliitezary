@@ -14,6 +14,8 @@
 
 
 <centre><h1>дргой сайт</h1></centre>
+<a href="https://codepen.io/yuliitezary"><img src="image/panda.png" alt="Панда"></a>
+    <p>кликай на меня чтобы перейти на другой сайт</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuliitezary)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <BR>
