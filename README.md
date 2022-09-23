@@ -63,8 +63,11 @@
 
 - [Log4shell - угрожает Minecraft или УЯЗВИМОСТЬ НУЛЕВОГО ДНЯ
 ](https://www.youtube.com/watch?v=6N5nzse3QjA)
-    - [Как узнать пароль от Windows через WiFi ?
-]([https://www.youtube.com/watch?v=6N5nzse3QjA](https://www.youtube.com/watch?v=IapgzrCTkas&t=224s))
     
+ - [Как узнать пароль от Windows через WiFi ?
+](https://www.youtube.com/watch?v=IapgzrCTkas&t=224s)
+    
+ - [Самодельный хакерский гаджет RPI0W | Как открыть любой шлагбаум, ворота и достать соседей
+](https://www.youtube.com/watch?v=HCiEaf1HPhE)
 <!-- BLOG-POST-LIST:END -->
 
