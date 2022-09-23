@@ -1,6 +1,18 @@
 <h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">юлик</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент информатики, автор новостей IT из Молдовы 🇷🇺</h3>
+
+## Оглавление
+
+0. [codepen.io](https://codepen.io/yuliitezary)
+1. [мой сайт](yuliitezary.github.io)
+2. [poertproton-potrwine запуск игр windows под linux](yuliitezary.github.io)
+3. [конвертацыя и скачка ](https://github.com/yuliitezary/convert_to_donwload_video)
+4. [панель управление сайтами](https://github.com/yuliitezary/convert_to_donwload_video)
+5. [ds4windwos чтобы подключить джостьк](https://github.com/Ryochan7/DS4Windows/releases)
+
+    
+
 ### :woman_technologist: &nbsp;About Me :
 
 Я разработчик из МОЛДОВЫ
@@ -14,17 +26,15 @@
 
 
 <centre><h1>дргой сайт</h1></centre>
-<a href="https://codepen.io/yuliitezary"><img src="https://i.imgur.com/2u8wCU2.gif" alt="Панда"></a>
-    <p>кликай на меня чтобы перейти на другой сайт</p><a href="https://codepen.io/yuliitezary">клйк сюда</p><a/>
+<a href="https://codepen.io/yuliitezary"><img src="image/panda.png" alt="Панда"></a>
+    <p>кликай на меня чтобы перейти на другой сайт</p>
+    
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuliitezary)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<BR>
-Карточка профиля:
-<BR>
+Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuliitezary&theme=solarized_dark)
-<BR>
 Статистика профиля:
-<BR>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuliitezary&theme=solarized_dark)
 
 ### 🛠 &nbsp;Языки и инструменты :
