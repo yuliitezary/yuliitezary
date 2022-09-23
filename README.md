@@ -13,7 +13,7 @@
 
     
 
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;О себе :
 
 Я разработчик из МОЛДОВЫ
 
