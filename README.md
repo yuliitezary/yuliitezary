@@ -27,10 +27,9 @@
 
 <centre><h1>дргой сайт</h1></centre>
 <a href="https://codepen.io/yuliitezary">
-        <a href="page/help.html"><img src="https://github.com/yuliitezary/yuliitezary/blob/main/tumblr_8eb6935c7349e6667f05e8af43aa174e_1dc8ac11_1280.gif" alt="Панда" width="100%" height="100%"></a>
+        <a href="page/help.html"><img src="https://github.com/yuliitezary/yuliitezary/blob/main/tumblr_8eb6935c7349e6667f05e8af43aa174e_1dc8ac11_1280.gif" alt="Панда" width="100%" height="300"></a>
 
-    <p>кликай на меня чтобы перейти на другой сайт</p>
-    
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuliitezary)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
