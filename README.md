@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-<img src="https://thumbs.gfycat.com/ArcticSpanishDegus-max-1mb.gif" width="1000" height="600"  /></p>
+<img src="https://38.media.tumblr.com/600799eb16fbe561267e354290ed32b2/tumblr_mh03i6YRhs1r0l1kdo1_500.gif" width="1000" height="500"  /></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
