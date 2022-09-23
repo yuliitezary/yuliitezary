@@ -1,32 +1,6 @@
-<centre><h1>дргой сайт</h1></centre>
-<html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Тег FRAME</title>
- </head>
-
- <frameset rows="80,*" cols="*">
-   <frame src="top.html" name="topFrame" scrolling="no" noresize>
-   <frameset cols="80,*">
-     <frame src="left.html" name="leftFrame" scrolling="no" noresize>
-     <frame src="main.html" name="mainFrame">
-   </frameset>
- </frameset>
-
-</html>
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-</p>
-<p align="center">
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-<img src="https://acegif.com/wp-content/uploads/gif/anime-sleep-81.gif" width="1000" height="500%"  /></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center"><img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/Me%2Bmaking%2Bthe%2Bfirst%2Bdraft%2Bof%2Bany%2Bpaper_fa60b4_4104004.gif" width="600" height="300"  /></p>
-
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">юлик</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Студент информатики, автор новостей IT из Молдовы 🇷🇺</h3>
 ### :woman_technologist: &nbsp;About Me :
 
 Я разработчик из МОЛДОВЫ
@@ -37,11 +11,18 @@
 
 ⚡ В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.
 
-📫 Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
----
 
-### 🛠 &nbsp;Languages and Tools :
+<centre><h1>дргой сайт</h1></centre>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuliitezary)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuliitezary&theme=solarized_dark)
+Статистика профиля:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuliitezary&theme=solarized_dark)
+
+### 🛠 &nbsp;Языки и инструменты :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -58,19 +39,3 @@
 <img src="https://github.com/yuliitezary/yuliitezary/blob/main/assets/devicon/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Blog Posts :
-
-- [Log4shell - угрожает Minecraft или УЯЗВИМОСТЬ НУЛЕВОГО ДНЯ
-](https://www.youtube.com/watch?v=6N5nzse3QjA)
-<!-- BLOG-POST-LIST:END -->
