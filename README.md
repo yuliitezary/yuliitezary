@@ -31,10 +31,13 @@
     
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuliitezary)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 Карточка профиля: 
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuliitezary&theme=solarized_dark)
+<br>
 Статистика профиля:
-
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuliitezary&theme=solarized_dark)
 
 ### 🛠 &nbsp;Языки и инструменты :
